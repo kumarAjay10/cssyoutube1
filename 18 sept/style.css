@@ -1,0 +1,22 @@
+h3{
+    color:aqua;
+}
+h4{
+    color:crimson;
+}
+h5{
+    color:bisque;
+    background-color: burlywood;
+}
+*{
+    background-color: coral;
+}
+span{
+    color:gray;
+}
+#name{
+    color:darkorchid;
+}
+.class{
+    color:fuchsia;
+}
